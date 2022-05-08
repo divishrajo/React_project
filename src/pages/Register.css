@@ -1,0 +1,26 @@
+div{
+    color: blue;
+    font-size: 18px;
+}
+
+Form{
+    font-size: 16px;
+    margin: 50px 450px;
+    font-style: italic;
+    color: black;
+    font-weight: bold;
+}
+.buttonclr{
+    padding: 10px;
+}
+
+#img1{
+    opacity: 80%;
+    
+}
+label{
+    padding: 10px;
+}
+button:hover{
+    opacity: 70%;
+}
